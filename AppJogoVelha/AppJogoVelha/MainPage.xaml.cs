@@ -67,7 +67,7 @@ namespace AppJogoVelha
 
         } // Fecha Button_Clicked
 
-        /*
+        /**
          * Método para zerar o jogo. Trocamos o valor de todos
          * os botões para vazio, reabilitamos os botões e
          * voltamos o valor da variável vez para X
